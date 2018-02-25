@@ -1,1 +1,1 @@
-# Image-Compression
+# JPEG-Image-Compressor-and-Decompressor
